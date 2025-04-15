@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Cassette/Mixtape
+* source:	https://sketchfab.com/3d-models/low-poly-cassettemixtape-60ce80a7d02c4cb38f97ff6dcea1edf9
+* author:	niddles (https://sketchfab.com/niddles)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Cassette/Mixtape" (https://sketchfab.com/3d-models/low-poly-cassettemixtape-60ce80a7d02c4cb38f97ff6dcea1edf9) by niddles (https://sketchfab.com/niddles) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
